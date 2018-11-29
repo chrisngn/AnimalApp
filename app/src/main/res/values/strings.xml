@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernAndroidApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="random_button">Random</string>
+    <string name="lucky">Lucky</string>
+    <string name="fact_title">Facts</string>
+    <string name="cat_title">Cats</string>
+</resources>
